@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1698e0fb_1bd7824b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-09-13T18:18:42Z",
+      "side": 1,
+      "message": "From https://github.com/Etar-Group/android_frameworks_opt_calendar/commit/d47bcc32e0ed9b6378cebcfe531ee9a8fdcc8a21 ",
+      "revId": "cdd246fe1ede60e253065adf469d9a168f9bc696",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
